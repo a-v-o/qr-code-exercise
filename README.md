@@ -42,6 +42,6 @@ Google web fonts
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@a-v-o](https://www.frontendmentor.io/profile/a-v-o)
 - Twitter - [@mellamofunmito](https://www.twitter.com/mellamofunmito)
 
